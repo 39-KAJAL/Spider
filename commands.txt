@@ -1,0 +1,31 @@
+Git Commands 
+
+1.git init:
+           The git init command is used to initialize a blank repository. It creates a git folder in the current working directory.
+
+2.git commit:
+             The git commit command is used to save the changes to the local repository.The command helps you keep record of all the changes made.
+
+3.git add:
+          The git add command is used to add changes in the current directory to the staging area.
+
+4.git status:
+             The git status command is used to display the state of the current repository and the staging areas.
+
+5.git merge:
+            The git merge command is used to integrate different branches into a single branch.
+
+6.git push:
+           The git push command is used to upload the content from the local repository to the remote repository.
+
+7.git pull:
+           The git pull command is used to fetch the new commits and merge them into the local branch.
+
+8.git clone:
+            The git clone commands is to create a copy of the target repository or create a clone in a new directory at a new place.
+
+9.git branch:
+             A branch refers to an independent line of development.The git branch command is used to create list, rename, and delete branches.
+
+10.git check-out:
+                The git check-out command works together with the git branch command. The command enables the navigation between the branches.
